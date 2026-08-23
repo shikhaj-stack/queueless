@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="system-ui,sans-serif">
+  <rect width="800" height="500" fill="#fff"/>
+  <rect y="0" width="800" height="56" fill="#334155"/>
+  <text x="30" y="34" font-size="15" font-weight="700" fill="#fff">Application Form</text>
+  <text x="770" y="34" font-size="12" fill="#cbd5e1" text-anchor="end">Step 2 of 4</text>
+  <g font-size="12" fill="#475569">
+    <text x="60" y="100">Applicant name (as on Aadhaar)</text>
+    <rect x="60" y="110" width="400" height="38" rx="6" fill="#f8fafc" stroke="#cbd5e1"/>
+    <text x="76" y="135" font-size="13" fill="#0f172a">RAHUL VERMA</text>
+
+    <text x="60" y="180">Date of birth</text>
+    <rect x="60" y="190" width="400" height="38" rx="6" fill="#f8fafc" stroke="#cbd5e1"/>
+    <text x="76" y="215" font-size="13" fill="#0f172a">12/04/1998</text>
+
+    <text x="60" y="260">Samagra ID</text>
+    <rect x="60" y="270" width="400" height="38" rx="6" fill="#fffbeb" stroke="#f59e0b"/>
+    <text x="76" y="295" font-size="13" fill="#0f172a">1234 5678 90</text>
+
+    <text x="60" y="340">Address</text>
+    <rect x="60" y="350" width="400" height="60" rx="6" fill="#f8fafc" stroke="#cbd5e1"/>
+    <text x="76" y="374" font-size="13" fill="#0f172a">45, Shivaji Nagar</text>
+    <text x="76" y="394" font-size="13" fill="#0f172a">Bhopal, MP 462016</text>
+  </g>
+  <rect x="60" y="436" width="130" height="40" rx="6" fill="#1d4ed8"/>
+  <text x="125" y="461" font-size="13" fill="#fff" text-anchor="middle">Save &amp; Next</text>
+  <rect x="520" y="90" width="220" height="140" rx="8" fill="#f1f5f9" stroke="#e2e8f0"/>
+  <text x="540" y="118" font-size="12" font-weight="600" fill="#0f172a">Simulated illustration</text>
+  <text x="540" y="140" font-size="11" fill="#64748b">Field names match the live</text>
+  <text x="540" y="158" font-size="11" fill="#64748b">portal, layout is redrawn.</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="system-ui,sans-serif">
+  <rect width="800" height="500" fill="#fff"/>
+  <rect width="800" height="34" fill="#e2e8f0"/>
+  <rect x="70" y="8" width="500" height="18" rx="9" fill="#fff"/>
+  <text x="82" y="21" font-size="11" fill="#64748b">mpedistrict.gov.in/apply/upload</text>
+  <rect y="34" width="800" height="48" fill="#1e3a8a"/>
+  <text x="30" y="64" font-size="15" font-weight="700" fill="#fff">Upload Documents</text>
+  <g font-size="13">
+    <rect x="60" y="120" width="680" height="64" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+    <text x="80" y="146" font-weight="600" fill="#0f172a">Aadhaar card</text>
+    <text x="80" y="168" font-size="11" fill="#64748b">PDF or JPG, max 200 KB</text>
+    <rect x="484" y="136" width="230" height="34" rx="5" fill="#fff" stroke="#94a3b8"/>
+    <text x="599" y="158" fill="#334155" text-anchor="middle">Choose file</text>
+
+    <rect x="60" y="200" width="680" height="64" rx="6" fill="#f0fdf4" stroke="#86efac"/>
+    <text x="80" y="226" font-weight="600" fill="#0f172a">Samagra ID</text>
+    <text x="80" y="248" font-size="11" fill="#15803d">samagra.pdf uploaded (86 KB)</text>
+    <text x="700" y="240" font-size="18" fill="#16a34a" text-anchor="end">✓</text>
+
+    <rect x="60" y="280" width="680" height="64" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+    <text x="80" y="306" font-weight="600" fill="#0f172a">Residence proof</text>
+    <text x="80" y="328" font-size="11" fill="#64748b">Electricity bill / voter ID</text>
+    <rect x="484" y="296" width="230" height="34" rx="5" fill="#fff" stroke="#94a3b8"/>
+    <text x="599" y="318" fill="#334155" text-anchor="middle">Choose file</text>
+  </g>
+  <rect x="60" y="376" width="680" height="46" rx="6" fill="#fffbeb" stroke="#fcd34d"/>
+  <text x="80" y="404" font-size="12" fill="#92400e">Scanned copies only. Angled photos are rejected at document check.</text>
+  <rect x="610" y="440" width="130" height="40" rx="6" fill="#1d4ed8"/>
+  <text x="675" y="465" font-size="13" fill="#fff" text-anchor="middle">Continue</text>
+</svg>

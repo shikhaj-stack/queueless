@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="system-ui,sans-serif">
+  <rect width="800" height="500" fill="#fff"/>
+  <rect width="800" height="34" fill="#e2e8f0"/>
+  <circle cx="18" cy="17" r="5" fill="#cbd5e1"/><circle cx="34" cy="17" r="5" fill="#cbd5e1"/><circle cx="50" cy="17" r="5" fill="#cbd5e1"/>
+  <rect x="70" y="8" width="500" height="18" rx="9" fill="#fff"/>
+  <text x="82" y="21" font-size="11" fill="#64748b">mpedistrict.gov.in</text>
+  <rect y="34" width="800" height="66" fill="#1e3a8a"/>
+  <circle cx="42" cy="67" r="18" fill="#fbbf24"/>
+  <text x="72" y="62" font-size="17" font-weight="700" fill="#fff">MP e-District</text>
+  <text x="72" y="82" font-size="12" fill="#bfdbfe">Government of Madhya Pradesh</text>
+  <rect x="586" y="48" width="180" height="38" rx="6" fill="#fbbf24"/>
+  <text x="676" y="72" font-size="14" font-weight="700" fill="#1e3a8a" text-anchor="middle">Citizen Login</text>
+  <rect y="100" width="800" height="34" fill="#1d4ed8"/>
+  <text x="30" y="122" font-size="12" fill="#fff">Home</text><text x="100" y="122" font-size="12" fill="#fff">Services</text>
+  <text x="190" y="122" font-size="12" fill="#fff">Track Status</text><text x="300" y="122" font-size="12" fill="#fff">Help</text>
+  <rect x="30" y="170" width="480" height="180" rx="8" fill="#f1f5f9"/>
+  <text x="54" y="212" font-size="18" font-weight="600" fill="#0f172a">Apply for certificates online</text>
+  <text x="54" y="242" font-size="13" fill="#475569">Domicile, income, caste and 200+ other services.</text>
+  <rect x="54" y="266" width="150" height="36" rx="6" fill="#1d4ed8"/>
+  <text x="129" y="289" font-size="13" fill="#fff" text-anchor="middle">Apply Now</text>
+  <rect x="540" y="170" width="230" height="180" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="562" y="200" font-size="13" font-weight="600" fill="#0f172a">Notices</text>
+  <rect x="562" y="216" width="186" height="8" rx="4" fill="#e2e8f0"/><rect x="562" y="236" width="150" height="8" rx="4" fill="#e2e8f0"/>
+  <rect x="562" y="256" width="170" height="8" rx="4" fill="#e2e8f0"/><rect x="562" y="276" width="120" height="8" rx="4" fill="#e2e8f0"/>
+  <rect x="30" y="380" width="740" height="86" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="54" y="412" font-size="12" fill="#64748b">Helpline 0755-2700800  •  Lok Seva Kendra locator  •  Fee schedule</text>
+</svg>

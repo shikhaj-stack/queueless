@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" font-family="system-ui,-apple-system,sans-serif">
+  <defs>
+    <filter id="shadow-cst" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <!-- Browser Header -->
+  <rect width="900" height="620" fill="#f8fafc"/>
+  <rect width="900" height="38" fill="#1e293b"/>
+  <circle cx="20" cy="19" r="5" fill="#ef4444"/>
+  <circle cx="36" cy="19" r="5" fill="#f59e0b"/>
+  <circle cx="52" cy="19" r="5" fill="#10b981"/>
+  <rect x="180" y="8" width="540" height="22" rx="11" fill="#334155"/>
+  <text x="450" y="23" font-size="11" fill="#cbd5e1" text-anchor="middle">https://mpedistrict.gov.in/Application/CasteCertificate.aspx</text>
+
+  <!-- Gov Header -->
+  <rect y="38" width="900" height="52" fill="#7c2d12"/>
+  <text x="40" y="70" font-size="15" font-weight="700" fill="#ffffff">Social Justice &amp; Revenue • Caste Certificate (जाति प्रमाण पत्र)</text>
+  <rect x="740" y="48" width="120" height="30" rx="4" fill="#9a3412"/>
+  <text x="800" y="68" font-size="11" font-weight="600" fill="#fff" text-anchor="middle">Form ID: MP-CST-03</text>
+
+  <!-- Form Container -->
+  <rect x="35" y="105" width="830" height="495" rx="8" fill="#ffffff" stroke="#cbd5e1" filter="url(#shadow-cst)"/>
+
+  <!-- Step Bar -->
+  <rect x="35" y="105" width="830" height="36" fill="#f1f5f9" rx="8"/>
+  <text x="120" y="127" font-size="11" font-weight="600" fill="#15803d">✓ 1. Citizen Identity</text>
+  <text x="360" y="127" font-size="11" font-weight="700" fill="#9a3412">● 2. Caste Lineage &amp; Pre-1950 Proof</text>
+  <text x="680" y="127" font-size="11" font-weight="500" fill="#64748b">○ 3. Record Verification</text>
+
+  <!-- Section 1: Caste Category -->
+  <text x="60" y="166" font-size="12" font-weight="700" fill="#0f172a">Category &amp; Notified Caste Selection (जाति एवं उप-जाति)</text>
+  <line x1="60" y1="174" x2="840" y2="174" stroke="#e2e8f0"/>
+
+  <!-- Field 1: Category Selection -->
+  <text x="60" y="196" font-size="11" font-weight="600" fill="#334155">Caste Category <tspan fill="#ef4444">*</tspan></text>
+  <rect x="60" y="204" width="365" height="34" rx="5" fill="#f8fafc" stroke="#9a3412" stroke-width="2"/>
+  <text x="74" y="226" font-size="12" font-weight="700" fill="#7c2d12">OBC (Other Backward Class / अन्य पिछड़ा वर्ग)</text>
+
+  <!-- Field 2: Notified Sub-Caste Name -->
+  <text x="455" y="196" font-size="11" font-weight="600" fill="#334155">Sub-Caste Name in State Gazette <tspan fill="#ef4444">*</tspan></text>
+  <rect x="455" y="204" width="385" height="34" rx="5" fill="#f8fafc" stroke="#94a3b8"/>
+  <text x="469" y="226" font-size="12" fill="#0f172a">Kushwaha / Kachhi (Serial No. 42 in MP Gazette)</text>
+
+  <!-- Field 3: Relative's Existing Certificate -->
+  <text x="60" y="260" font-size="11" font-weight="600" fill="#334155">Father / Paternal Relative's Certificate No. (if available)</text>
+  <rect x="60" y="268" width="365" height="34" rx="5" fill="#fffbeb" stroke="#f59e0b"/>
+  <text x="74" y="290" font-size="12" fill="#0f172a">RS/BPL/2014/99410</text>
+
+  <!-- Field 4: Creamy Layer Status -->
+  <text x="455" y="260" font-size="11" font-weight="600" fill="#334155">Non-Creamy Layer (NCL) Status <tspan fill="#ef4444">*</tspan></text>
+  <rect x="455" y="268" width="385" height="34" rx="5" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="469" y="290" font-size="12" fill="#0f172a">Non-Creamy Layer (Income &lt; ₹8 Lakh/Year)</text>
+
+  <!-- Section 2: Paternal Lineage & Ancestral Address -->
+  <text x="60" y="330" font-size="12" font-weight="700" fill="#0f172a">Paternal Ancestry &amp; Pre-1950 Residence in MP</text>
+  <line x1="60" y1="338" x2="840" y2="338" stroke="#e2e8f0"/>
+
+  <!-- Field 5: Father's Name & Place -->
+  <text x="60" y="358" font-size="11" font-weight="600" fill="#334155">Father's Name &amp; Native Village / Tehsil <tspan fill="#ef4444">*</tspan></text>
+  <rect x="60" y="366" width="365" height="34" rx="5" fill="#f8fafc" stroke="#94a3b8"/>
+  <text x="74" y="388" font-size="12" fill="#0f172a">Suresh Verma • Berasia, Bhopal</text>
+
+  <!-- Field 6: Grandfather's Name -->
+  <text x="455" y="358" font-size="11" font-weight="600" fill="#334155">Grandfather's Name (for record matching) <tspan fill="#ef4444">*</tspan></text>
+  <rect x="455" y="366" width="385" height="34" rx="5" fill="#f8fafc" stroke="#94a3b8"/>
+  <text x="469" y="388" font-size="12" fill="#0f172a">Late Ramprasad Verma</text>
+
+  <!-- Alert Warning Box -->
+  <rect x="60" y="420" width="780" height="52" rx="5" fill="#fef2f2" stroke="#fca5a5"/>
+  <text x="76" y="440" font-size="11" font-weight="700" fill="#991b1b">⚠️ Important: Paternal Lineage Mandatory</text>
+  <text x="76" y="458" font-size="11" fill="#7f1d1d">Caste can only be inherited from father/paternal lineage. Mother's caste documents cannot be used under MP state rules.</text>
+
+  <!-- Submit Buttons -->
+  <rect x="60" y="528" width="120" height="38" rx="6" fill="#ffffff" stroke="#94a3b8"/>
+  <text x="120" y="552" font-size="12" font-weight="600" fill="#475569" text-anchor="middle">← Back</text>
+
+  <rect x="195" y="528" width="200" height="38" rx="6" fill="#9a3412"/>
+  <text x="295" y="552" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">Save &amp; Continue to Upload →</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="system-ui,sans-serif">
+  <rect width="800" height="500" fill="#fff"/>
+  <rect width="800" height="34" fill="#e2e8f0"/>
+  <rect x="70" y="8" width="500" height="18" rx="9" fill="#fff"/>
+  <text x="82" y="21" font-size="11" fill="#64748b">mpedistrict.gov.in/apply/acknowledgement</text>
+  <rect y="34" width="800" height="48" fill="#166534"/>
+  <text x="30" y="64" font-size="15" font-weight="700" fill="#fff">Payment successful</text>
+  <circle cx="400" cy="150" r="34" fill="#dcfce7"/>
+  <text x="400" y="162" font-size="30" fill="#16a34a" text-anchor="middle">✓</text>
+  <text x="400" y="216" font-size="16" font-weight="600" fill="#0f172a" text-anchor="middle">₹30 paid • Transaction ID 8842190</text>
+  <rect x="90" y="290" width="620" height="70" rx="8" fill="#eff6ff" stroke="#93c5fd"/>
+  <text x="112" y="318" font-size="12" fill="#1e40af">Application number</text>
+  <text x="112" y="344" font-size="20" font-weight="700" fill="#1e3a8a">MP/DOM/2026/0084217</text>
+  <text x="400" y="392" font-size="12" fill="#64748b" text-anchor="middle">Save this number — it is the only way to track your application.</text>
+  <rect x="250" y="416" width="140" height="40" rx="6" fill="#1d4ed8"/>
+  <text x="320" y="441" font-size="13" fill="#fff" text-anchor="middle">Download PDF</text>
+  <rect x="410" y="416" width="140" height="40" rx="6" fill="#fff" stroke="#94a3b8"/>
+  <text x="480" y="441" font-size="13" fill="#334155" text-anchor="middle">Track status</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="system-ui,sans-serif">
+  <rect width="800" height="500" fill="#fff"/>
+  <rect width="800" height="34" fill="#e2e8f0"/>
+  <rect x="70" y="8" width="500" height="18" rx="9" fill="#fff"/>
+  <text x="82" y="21" font-size="11" fill="#64748b">mpedistrict.gov.in/services</text>
+  <rect y="34" width="800" height="48" fill="#1e3a8a"/>
+  <text x="30" y="64" font-size="15" font-weight="700" fill="#fff">Services Directory</text>
+  <rect x="60" y="118" width="440" height="44" rx="6" fill="#fff" stroke="#94a3b8"/>
+  <text x="78" y="146" font-size="14" fill="#0f172a">domicile</text>
+  <rect x="512" y="118" width="110" height="44" rx="6" fill="#1d4ed8"/>
+  <text x="567" y="146" font-size="14" fill="#fff" text-anchor="middle">Search</text>
+  <g font-size="13">
+    <rect x="60" y="190" width="680" height="62" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+    <text x="80" y="216" font-weight="600" fill="#0f172a">Domicile Certificate</text>
+    <text x="80" y="238" fill="#64748b">Revenue Department • Fee ₹30 • 7-15 days</text>
+    <rect x="620" y="206" width="100" height="30" rx="5" fill="#16a34a"/>
+    <text x="670" y="226" fill="#fff" text-anchor="middle">Apply</text>
+    <rect x="60" y="266" width="680" height="62" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+    <text x="80" y="292" font-weight="600" fill="#0f172a">Duplicate Domicile Certificate</text>
+    <text x="80" y="314" fill="#64748b">Revenue Department • Fee ₹30 • 7 days</text>
+    <rect x="620" y="282" width="100" height="30" rx="5" fill="#16a34a"/>
+    <text x="670" y="302" fill="#fff" text-anchor="middle">Apply</text>
+    <rect x="60" y="342" width="680" height="62" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+    <text x="80" y="368" font-weight="600" fill="#0f172a">Residence Certificate</text>
+    <text x="80" y="390" fill="#64748b">Revenue Department • Fee ₹30 • 7 days</text>
+    <rect x="620" y="358" width="100" height="30" rx="5" fill="#16a34a"/>
+    <text x="670" y="378" fill="#fff" text-anchor="middle">Apply</text>
+  </g>
+</svg>

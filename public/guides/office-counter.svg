@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="system-ui,sans-serif">
+  <rect width="800" height="500" fill="#f1f5f9"/>
+  <rect y="0" width="800" height="70" fill="#0f172a"/>
+  <text x="400" y="44" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">TEHSIL OFFICE, HUZUR</text>
+  <rect x="40" y="110" width="200" height="150" rx="8" fill="#fff" stroke="#cbd5e1"/>
+  <text x="140" y="146" font-size="13" font-weight="600" fill="#0f172a" text-anchor="middle">Counter 1</text>
+  <text x="140" y="170" font-size="11" fill="#64748b" text-anchor="middle">Enquiry</text>
+  <rect x="300" y="110" width="200" height="150" rx="8" fill="#fff" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="400" y="146" font-size="13" font-weight="600" fill="#1e3a8a" text-anchor="middle">Counter 2</text>
+  <text x="400" y="170" font-size="11" fill="#475569" text-anchor="middle">Certificates</text>
+  <rect x="336" y="192" width="128" height="44" rx="6" fill="#1e3a8a"/>
+  <text x="400" y="212" font-size="10" fill="#bfdbfe" text-anchor="middle">NOW SERVING</text>
+  <text x="400" y="230" font-size="16" font-weight="700" fill="#fff" text-anchor="middle">A-12</text>
+  <rect x="560" y="110" width="200" height="150" rx="8" fill="#fff" stroke="#cbd5e1"/>
+  <text x="660" y="146" font-size="13" font-weight="600" fill="#0f172a" text-anchor="middle">Counter 3</text>
+  <text x="660" y="170" font-size="11" fill="#64748b" text-anchor="middle">Fee payment</text>
+  <g fill="#94a3b8">
+    <circle cx="180" cy="360" r="14"/><rect x="168" y="378" width="24" height="42" rx="10"/>
+    <circle cx="240" cy="360" r="14"/><rect x="228" y="378" width="24" height="42" rx="10"/>
+    <circle cx="300" cy="360" r="14"/><rect x="288" y="378" width="24" height="42" rx="10"/>
+  </g>
+  <text x="400" y="404" font-size="12" fill="#475569">← queue you no longer have to stand in</text>
+  <text x="400" y="462" font-size="11" fill="#94a3b8" text-anchor="middle">Simulated illustration — counter numbers vary by office.</text>
+</svg>
